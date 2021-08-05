@@ -71,5 +71,5 @@ class SearchController {
     return res.status(200).json(resOjb);
   }
 }
-
+// aowba
 export default new SearchController();
