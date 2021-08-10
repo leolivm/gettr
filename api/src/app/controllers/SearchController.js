@@ -48,7 +48,7 @@ class SearchController {
     });
 
     const arrLLNumber = searchLLArray.map((item) => {
-      return item.replace("R$ ", "").replace(",", ".").replace(" à vista", "");
+      return item.replace("R$ ", "").replace(",", ".").replace(" Ã  vista", "");
     });
 
     const minLL = Math.min(...arrLLNumber);
