@@ -23,7 +23,7 @@ Technologies that I used to develop this API
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
-- [Socket.io](https://socket.io/)
+- [nodemon](https://github.com/remy/nodemon)
 
 ## 💻 Getting started
 
